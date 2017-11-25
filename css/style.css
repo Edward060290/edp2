@@ -16,3 +16,7 @@ ul {
 .intro {
   font-style:italic;
 }
+body {
+  background: linear-gradient(red, blue);
+  height: 1500px;
+}
